@@ -61,7 +61,7 @@ body {
 .card-4 {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
-    background: #f1e7e7;
+    background: #eec2c2;
 }
 
 .card-5 {
@@ -74,4 +74,22 @@ body {
     grid-column: 3 / 4;
     grid-row: 2 / 3;
     background: #e24545;
+}
+
+.card-7 {
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+    background: #ed2b2b;
+}
+
+.card-8 {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+    background: #e6a2a2;
+}
+
+.card-9 {
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+    background: #bf7373;
 }
